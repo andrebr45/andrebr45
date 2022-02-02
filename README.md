@@ -1,5 +1,4 @@
 
-  <img align="left" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://images.unsplash.com/photo-1533709752211-118fcaf03312?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80?width=1000&height=1000">
 </div>
 <div align="center">
   <h1> André Felipe - Desenvolvedor</h1>
