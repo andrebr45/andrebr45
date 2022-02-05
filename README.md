@@ -21,7 +21,7 @@
 </div>
 <div>
     <h2> </h2>
-    <a href="https://github.com/andrebr45/Youtube" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+    <a href="https://www.youtube.com/watch?v=VD5e2SfEiF0&t=326s" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
 </div>
   <div align="center">
@@ -29,7 +29,7 @@
 </div>
 <div align="center">
   <div align="center">
-  <a href="https://github.com/andrebr45">
+  <a href="https://www.youtube.com/watch?v=zzkwYqekBGY&t=161s">
   <img height="350em" src="https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Ch_657%2Cw_1366&url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F1285543771%2Fc564f7b9e943347793ac997cffc81916%2Fgit_p.png"/>
    <br>
   <img align="top" alt="Rafa-Python" height="180em" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -46,7 +46,7 @@
 </div>
 <div align="center">
   <div align="center">
-  <a href="https://github.com/andrebr45">
+  <a href="https://padlet-uploads.storage.googleapis.com/1285543771/7d1a861f0b7e48af5300de0b4cec9e5d/2022_01_22_13_10_26.mp4">
   <img height="300em" src="https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Ch_223%2Cw_346&url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F1285543771%2F8585666b76e0dba291f9414987678b8d%2Fyoutube.PNG"/>
    <br>
   <img align="top" alt="Rafa-Python" height="180em" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
