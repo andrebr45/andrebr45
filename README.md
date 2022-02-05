@@ -21,7 +21,7 @@
 </div>
 <div>
     <h2> </h2>
-    <a href="https://youtu.be/VD5e2SfEiF0" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+    <a href="https://github.com/andrebr45/Youtube" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
 </div>
   <div align="center">
