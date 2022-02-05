@@ -40,6 +40,22 @@
     <a href="https://youtu.be/zzkwYqekBGY" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   
   
+</div>
+  <div align="center">
+  <h2> Programa Youtube Completo 👋</h2>
+</div>
+<div align="center">
+  <div align="center">
+  <a href="https://github.com/andrebr45">
+  <img height="300em" src="https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Ch_223%2Cw_346&url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F1285543771%2F8585666b76e0dba291f9414987678b8d%2Fyoutube.PNG"/>
+   <br>
+  <img align="top" alt="Rafa-Python" height="180em" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+<div>
+    <h2> </h2>
+    <a href="https://youtu.be/zzkwYqekBGY" target="_blank"><img src="https://img.shields.io/badge/Github-ABABAB?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
