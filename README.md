@@ -13,7 +13,7 @@
 </div>
 <div align="center" border="5px">
   <div align="center">
-  <a href="https://github.com/andrebr45">
+  <a href="https://www.youtube.com/watch?v=VD5e2SfEiF0&t=326s">
   <img height="350em" src="https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Ch_657%2Cw_1366&url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F1285543771%2Ff36e7ff6dac6d9cc347d884ca2c9f262%2Fgit.png"/>
    <br>
   <img align="top" alt="Rafa-Python" height="180em" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -53,7 +53,7 @@
 </div>
 <div>
     <h2> </h2>
-    <a href="https://youtu.be/zzkwYqekBGY" target="_blank"><img src="https://img.shields.io/badge/Github-ABABAB?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+    <a href="https://github.com/andrebr45/Youtube" target="_blank"><img src="https://img.shields.io/badge/Github-ABABAB?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   
   
 <div style="display: inline_block"><br>
