@@ -64,7 +64,7 @@
 <div align="center">
   <div align="center">
   <a href="https://padlet-uploads.storage.googleapis.com/1285543771/7d1a861f0b7e48af5300de0b4cec9e5d/2022_01_22_13_10_26.mp4">
-  <img height="350em" width="500em" src="https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Ch_301%2Cw_346&url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F1285543771%2F393f9b9126447d55b265c92813911dfa%2Fgithub.PNG"/>
+  <img height="300em" width="400em" src="https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Ch_301%2Cw_346&url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F1285543771%2F393f9b9126447d55b265c92813911dfa%2Fgithub.PNG"/>
    <br>
   <img align="top" alt="Rafa-Python" height="180em" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
