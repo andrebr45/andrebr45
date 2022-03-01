@@ -30,7 +30,7 @@
 <div align="center">
   <div align="center">
   <a href="https://www.youtube.com/watch?v=zzkwYqekBGY&t=161s">
-  <img height="350em" src="https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Ch_657%2Cw_1366&url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F1285543771%2Fc564f7b9e943347793ac997cffc81916%2Fgit_p.png"/>
+  <img src="https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Ch_277%2Cw_516&url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F1285543771%2F97fc83091e16fcd6e6a594a8546ea8c7%2Fgithub5.png"/>
    <br>
   <img align="top" alt="Rafa-Python" height="180em" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="top" alt="Rafa-Python" height="180em" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
