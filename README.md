@@ -14,7 +14,7 @@
 <div align="center" border="5px">
   <div align="center">
   <a href="https://www.youtube.com/watch?v=VD5e2SfEiF0&t=326s">
-  <img height="350em" src="https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Ch_657%2Cw_1366&url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F1285543771%2Ff36e7ff6dac6d9cc347d884ca2c9f262%2Fgit.png"/>
+  <img src="https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Ch_600%2Cw_833&url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F1285543771%2F01518d7ff3fa526ed824fae7894a4f87%2Flogin.png"/>
    <br>
   <img align="top" alt="Rafa-Python" height="180em" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="top" alt="Rafa-Python" height="180em" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
