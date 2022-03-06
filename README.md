@@ -77,7 +77,7 @@
   
 </div>
   <div align="center">
-  <h2> Sistema De Hospital 👋</h2>
+  <h2> Sistema de Hospital Em Breve! 👋</h2>
 </div>
 <div align="center">
   <div align="center">
@@ -85,6 +85,7 @@
   <img  src="https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Ch_600%2Cw_720&url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F1285543771%2F2ad13083520269447f0e9cfcd0b40b76%2Fhospital_git.png"/>
    <br>
   <img align="top" alt="Rafa-Python" height="180em" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="top" alt="Rafa-Python" height="180em" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 <div>
     <h2> </h2>
