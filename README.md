@@ -108,6 +108,23 @@
     <h2> </h2>
     <a href="https://github.com/andrebr45/HTML-Cadastro-Blue" target="_blank"><img src="https://img.shields.io/badge/Github-ABABAB?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   
+
+</div>
+  <div align="center">
+  <h2> Login em HTML E CSS! 👋</h2>
+</div>
+<div align="center">
+  <div align="center">
+  <a href="https://www.youtube.com/channel/UCIScdxrwhEAu0AuALCHq3AA">
+  <img  src="https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Ch_600%2Cw_720&url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F1285543771%2Ff5dc8f1cb1b46b98b1d46b4849e9ce58%2Flogin_rosa_git.png"/>
+   <br>
+  <img align="top" alt="And@-Software" height="180em" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="top" alt="And@-Software" height="180em" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+<div>
+    <h2> </h2>
+    <a href="https://github.com/andrebr45/HTML-Cadastro-Blue" target="_blank"><img src="https://img.shields.io/badge/Github-ABABAB?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>  
+
 <div style="display: inline_block"><br>
   <img align="center" alt="And-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="And-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
