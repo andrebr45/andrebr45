@@ -98,7 +98,7 @@
 </div>
 <div align="center">
   <div align="center">
-  <a href="https://www.youtube.com/watch?v=zgDgck16w80&t=47s">
+  <a href="https://www.youtube.com/channel/UCIScdxrwhEAu0AuALCHq3AA">
   <img  src="https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Ch_600%2Cw_720&url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F1285543771%2F5c4685e0720f23c3bcc60f46b06abc49%2Fcadastro_html_git.PNG"/>
    <br>
   <img align="top" alt="And@-Software" height="180em" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -106,7 +106,7 @@
 </div>
 <div>
     <h2> </h2>
-    <a href="https://github.com/andrebr45/QR_Code" target="_blank"><img src="https://img.shields.io/badge/Github-ABABAB?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+    <a href="https://github.com/andrebr45/HTML-Cadastro-Blue" target="_blank"><img src="https://img.shields.io/badge/Github-ABABAB?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="And-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
