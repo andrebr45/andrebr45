@@ -16,8 +16,8 @@
   <a href="https://www.youtube.com/watch?v=VD5e2SfEiF0&t=326s">
   <img src="https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Ch_500%2Cw_600&url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F1285543771%2Fa0b5c80e410aa4a8c42e78c27f62308c%2Flogin_arrumado.png"/>
    <br>
-  <img align="top" alt="Rafa-Python" height="180em" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="top" alt="Rafa-Python" height="180em" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="top" alt="And@-Software" height="180em" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="top" alt="And@-Software" height="180em" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 <div>
     <h2> </h2>
@@ -32,8 +32,8 @@
   <a href="https://www.youtube.com/watch?v=zzkwYqekBGY&t=161s">
   <img src="https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Ch_600%2Cw_720&url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F1285543771%2F1518dd806880c8c8f35f5599d1102186%2Fgithub5.png"/>
    <br>
-  <img align="top" alt="Rafa-Python" height="180em" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="top" alt="Rafa-Python" height="180em" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="top" alt="And@-Software" height="180em" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="top" alt="And@-Software" height="180em" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 <div>
     <h2> </h2>
@@ -49,7 +49,7 @@
   <a href="https://padlet-uploads.storage.googleapis.com/1285543771/7d1a861f0b7e48af5300de0b4cec9e5d/2022_01_22_13_10_26.mp4">
   <img src="https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Ch_500%2Cw_700&url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F1285543771%2F62bf2b2cfbbb9d997a9fb91abd725170%2Fyou_you1.png"/>
    <br>
-  <img align="top" alt="Rafa-Python" height="180em" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="top" alt="And@-Software" height="180em" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 <div>
     <h2> </h2>
@@ -66,7 +66,7 @@
   <a href="https://www.youtube.com/watch?v=zgDgck16w80&t=47s">
   <img  src="https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Ch_451%2Cw_516&url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F1285543771%2F6468fd4e06274cce85e7863bf4eed61f%2Fgithub3.png"/>
    <br>
-  <img align="top" alt="Rafa-Python" height="180em" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="top" alt="And@-Software" height="180em" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 <div>
     <h2> </h2>
@@ -84,8 +84,8 @@
   <a href="https://www.youtube.com/watch?v=zgDgck16w80&t=47s">
   <img  src="https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Ch_600%2Cw_900&url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F1285543771%2F2ad13083520269447f0e9cfcd0b40b76%2Fhospital_git.png"/>
    <br>
-  <img align="top" alt="Rafa-Python" height="180em" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="top" alt="Rafa-Python" height="180em" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="top" alt="And@-Software" height="180em" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="top" alt="And@-Software" height="180em" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 <div>
     <h2> </h2>
@@ -101,20 +101,20 @@
   <a href="https://www.youtube.com/watch?v=zgDgck16w80&t=47s">
   <img  src="https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Ch_600%2Cw_720&url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F1285543771%2F5c4685e0720f23c3bcc60f46b06abc49%2Fcadastro_html_git.PNG"/>
    <br>
-  <img align="top" alt="Rafa-Python" height="180em" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="top" alt="Rafa-Python" height="180em" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="top" alt="And@-Software" height="180em" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="top" alt="And@-Software" height="180em" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 <div>
     <h2> </h2>
     <a href="https://github.com/andrebr45/QR_Code" target="_blank"><img src="https://img.shields.io/badge/Github-ABABAB?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="And-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="And-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="And-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="And-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="And-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="And-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 
 <div>
