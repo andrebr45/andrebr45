@@ -99,7 +99,7 @@
 <div align="center">
   <div align="center">
   <a href="https://www.youtube.com/watch?v=zgDgck16w80&t=47s">
-  <img  src="https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Ch_600%2Cw_800&url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F1285543771%2F5c4685e0720f23c3bcc60f46b06abc49%2Fcadastro_html_git.PNG"/>
+  <img  src="https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Ch_600%2Cw_720&url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F1285543771%2F5c4685e0720f23c3bcc60f46b06abc49%2Fcadastro_html_git.PNG"/>
    <br>
   <img align="top" alt="Rafa-Python" height="180em" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="top" alt="Rafa-Python" height="180em" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
