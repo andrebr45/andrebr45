@@ -133,7 +133,7 @@
 <div align="center">
   <div align="center">
   <a href="https://www.youtube.com/channel/UCIScdxrwhEAu0AuALCHq3AA">
-  <img  src="https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Ch_500%2Cw_616&url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F1285543771%2F890e0d90fb3f87dbebad87417514cc37%2Fjava_git.png"/>
+  <img  src="https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Ch_470%2Cw_550&url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F1285543771%2F890e0d90fb3f87dbebad87417514cc37%2Fjava_git.png"/>
    <br>
   <img align="top" alt="And@-Software" height="180em" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="top" alt="And@-Software" height="180em" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
