@@ -128,7 +128,7 @@
 
 </div>
   <div align="center">
-  <h2> Sistema de Cadastro! 👋</h2>
+  <h2> Sistema de Cadastro em breve! 👋</h2>
 </div>
 <div align="center">
   <div align="center">
