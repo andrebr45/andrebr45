@@ -127,6 +127,26 @@
   
 
 </div>
+    
+</div>
+  <div align="center">
+  <h2> Sistema de Crud! 👋</h2>
+</div>
+<div align="center">
+  <div align="center">
+  <a href="https://padlet-uploads.storage.googleapis.com/1285543771/73cccdc964ff8171d5a226477049f9cd/2022_03_29_22_45_25.mp4">
+  <img  src="https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Ch_500%2Cw_700&url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F1285543771%2Fc1e9d99c5a02f15bddead83fb6e1a75f%2Fcrud_github.png"/>
+   <br>
+  <img align="top" alt="And@-Software" height="180em" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="top" alt="And@-Software" height="180em" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+</div>
+<div>
+    <h2> </h2>
+    <a href="https://github.com/andrebr45" target="_blank"><img src="https://img.shields.io/badge/Github-ABABAB?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>  
+  
+
+</div>
+    
   <div align="center">
   <h2> Sistema de Cadastro em breve! 👋</h2>
 </div>
