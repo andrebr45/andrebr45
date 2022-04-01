@@ -142,7 +142,7 @@
 </div>
 <div>
     <h2> </h2>
-    <a href="https://github.com/andrebr45" target="_blank"><img src="https://img.shields.io/badge/Github-ABABAB?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>  
+    <a href="https://github.com/andrebr45/Crud-Python-MySQL" target="_blank"><img src="https://img.shields.io/badge/Github-ABABAB?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>  
   
 
 </div>
