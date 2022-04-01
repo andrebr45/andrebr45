@@ -53,7 +53,7 @@
 </div>
 <div>
     <h2> </h2>
-    <a href="https://github.com/andrebr45/Youtube" target="_blank"><img src="https://img.shields.io/badge/Github-ABABAB?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+    <a href="https://github.com/andrebr45/Youtube" target="_blank"><img src="https://img.shields.io/badge/ACESSAR-gray?logo=github" height="30px" target="_blank"></a>
   
   
   
@@ -70,7 +70,7 @@
 </div>
 <div>
     <h2> </h2>
-    <a href="https://github.com/andrebr45/QR_Code" target="_blank"><img src="https://img.shields.io/badge/Github-ABABAB?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+    <a href="https://github.com/andrebr45/QR_Code" target="_blank"><img src="https://img.shields.io/badge/ACESSAR-gray?logo=github" height="30px" target="_blank"></a>
 
   
 
@@ -89,7 +89,7 @@
 </div>
 <div>
     <h2> </h2>
-    <a href="https://github.com/andrebr45/QR_Code" target="_blank"><img src="https://img.shields.io/badge/Github-ABABAB?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+    <a href="https://github.com/andrebr45/QR_Code" target="_blank"><img src="https://img.shields.io/badge/ACESSAR-gray?logo=github" height="30px" target="_blank"></a>
 
   
 </div>
@@ -106,7 +106,7 @@
 </div>
 <div>
     <h2> </h2>
-    <a href="https://github.com/andrebr45/HTML-Cadastro-Blue" target="_blank"><img src="https://img.shields.io/badge/Github-ABABAB?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+    <a href="https://github.com/andrebr45/HTML-Cadastro-Blue" target="_blank"><img src="https://img.shields.io/badge/ACESSAR-gray?logo=github" height="30px" target="_blank"></a>
   
 
 </div>
@@ -123,7 +123,7 @@
 </div>
 <div>
     <h2> </h2>
-    <a href="https://github.com/andrebr45/Login-HTML-CSS" target="_blank"><img src="https://img.shields.io/badge/Github-ABABAB?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>  
+    <a href="https://github.com/andrebr45/Login-HTML-CSS" target="_blank"><img src="https://img.shields.io/badge/ACESSAR-gray?logo=github" height="30px" target="_blank"></a>  
   
 
 </div>
@@ -142,7 +142,7 @@
 </div>
 <div>
     <h2> </h2>
-    <a href="https://github.com/andrebr45/Crud-Python-MySQL" target="_blank"><img src="https://img.shields.io/badge/Github-ABABAB?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>  
+    <a href="https://github.com/andrebr45/Crud-Python-MySQL" target="_blank"><img src="https://img.shields.io/badge/ACESSAR-gray?logo=github" height="30px" target="_blank"></a>  
   
 
 </div>
@@ -160,7 +160,7 @@
 </div>
 <div>
     <h2> </h2>
-    <a href="https://github.com/andrebr45" target="_blank"><img src="https://img.shields.io/badge/Github-ABABAB?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
+    <a href="https://github.com/andrebr45" target="_blank"><img src="https://img.shields.io/badge/ACESSAR-gray?logo=github" height="30px" target="_blank"></a> 
   
   
 </div>
@@ -177,7 +177,7 @@
 </div>
 <div>
     <h2> </h2>
-    <a href="https://github.com/andrebr45" target="_blank"><img src="https://img.shields.io/badge/Github-ABABAB?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>  
+    <a href="https://github.com/andrebr45" target="_blank"><img src="https://img.shields.io/badge/ACESSAR-gray?logo=github" height="30px" target="_blank"></a>  
 
 <div style="display: inline_block"><br>
   <img align="center" alt="And-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
