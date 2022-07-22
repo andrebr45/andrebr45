@@ -148,7 +148,7 @@
 </div>
     
   <div align="center">
-  <h2> Sistema de Cadastro em breve! 👋</h2>
+  <h2> Sistema de Cadastro em Java! 👋</h2>
 </div>
 <div align="center">
   <div align="center">
@@ -160,7 +160,7 @@
 </div>
 <div>
     <h2> </h2>
-    <a href="https://github.com/andrebr45" target="_blank"><img src="https://img.shields.io/badge/ACESSAR-gray?logo=github" height="30px" target="_blank"></a> 
+    <a href="https://github.com/andrebr45/sistemajavacadastro" target="_blank"><img src="https://img.shields.io/badge/ACESSAR-gray?logo=github" height="30px" target="_blank"></a> 
   
   
 </div>
