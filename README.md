@@ -9,6 +9,23 @@
    <h1>Os Melhores Projetos! 👋</h1>
 </div>
   <div align="center">
+  <h2> Sistema de Login em Java em breve 👋</h2>
+</div>
+<div align="center">
+  <div align="center">
+  <a href="https://www.youtube.com/channel/UCIScdxrwhEAu0AuALCHq3AA">
+  <img src="https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_2%2Ch_497%2Cw_982&url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F1285543771%2F5400b4b2956627d596d2e5588b2098ad%2Fjava_padlet.png"/>
+   <br>
+  <img align="top" alt="And@-Software" height="180em" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="top" alt="And@-Software" height="180em" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+</div>
+<div>
+    <h2> </h2>
+    <a href="https://www.youtube.com/channel/UCIScdxrwhEAu0AuALCHq3AA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  
+  
+</div>
+  <div align="center">
   <h2> Sistema de Autenticação de Login e SMS 👋</h2>
 </div>
 <div align="center" border="5px">
