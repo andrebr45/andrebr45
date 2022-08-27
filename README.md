@@ -194,7 +194,7 @@
 </div>
 <div>
     <h2> </h2>
-    <a href="https://github.com/andrebr45" target="_blank"><img src="https://img.shields.io/badge/ACESSAR-gray?logo=github" height="30px" target="_blank"></a>  
+    <a href="https://github.com/andrebr45/NovaAgenda" target="_blank"><img src="https://img.shields.io/badge/ACESSAR-gray?logo=github" height="30px" target="_blank"></a>  
 
 <div style="display: inline_block"><br>
   <img align="center" alt="And-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
