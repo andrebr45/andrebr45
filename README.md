@@ -31,7 +31,7 @@
 <div align="center" border="5px">
   <div align="center">
   <a href="https://www.youtube.com/watch?v=VD5e2SfEiF0&t=326s">
-  <img src="https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Ch_500%2Cw_600&url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F1285543771%2Fa0b5c80e410aa4a8c42e78c27f62308c%2Flogin_arrumado.png"/>
+  <img src="https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Ch_700%2Cw_700&url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F1285543771%2F8be12dd2795311504e0183a0da8ac736%2Flogin.png"/>
    <br>
   <img align="top" alt="And@-Software" height="180em" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="top" alt="And@-Software" height="180em" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
