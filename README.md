@@ -194,6 +194,20 @@
 </div>
 <div>
     <h2> </h2>
+    <a href="https://github.com/andrebr45/NovaAgenda" target="_blank"><img src="https://img.shields.io/badge/ACESSAR-gray?logo=github" height="30px" target="_blank"></a>
+  
+ </div>
+  <div align="center">
+  <h2> Sistema de Login em breve! 👋</h2>
+</div>
+<div align="center">
+  <div align="center">
+  <a href="https://www.youtube.com/channel/UCIScdxrwhEAu0AuALCHq3AA">
+  <img  src="https://lh3.googleusercontent.com/xKjSf3RBR5HmaRrgXW0PTiZJef2pYY96cWXNYh6niXhkW9YxvjzDXPIHaI80VgNPk-RBoTx37qtKHjoCq0YSkA5YrVHQl-RM9DD01eAYSEXl_MTwy32kRpMsbyR5UsZ-1K16jomgPK9WH-Q_qrhWkznkk4rHU6F_b4hJkCEmb3_UdN_yktp1qol6XJapXCztw5o_w281AtwDEwYXqYNS71b5avC_BEMEgFvW9YOqByRysNrmhKxdzzZcUJ7_rbDK9yloH74_bZyTmq1QDeQjAnFChKOjwDV15QQZW66pVCN8tO0QCbXa22doccDsHGpcKcIfyT-QywG3_h4M5XzHRDPHYbe3UulYFuwtjyHau1zqlwBXm15ETgpGxyhfYkKy_Tbv9MMVKGoPgtK6jgIL318wAsoiXNBcNI445qjUEM2V2kKbQW7hTUCaGJN8gsXzzAJZBRyjFKaMwClJ7hO0mvC1xwwJYgv_zIQsklSPHE7HmmOcQqV4ayxLPMom3Cd5sWYOvxkMwY85TF1MK-jYLTMDW5Kn5dyzuElqLAJIKK70orJvXyvBqucwSMyp7g40TuKgYPHpPAb1uk8kLnfHjykKODkyV8_sv4KsR1QAYPzpJwsb1B07w0LwlfoEmCQMVZvuNzhzbEddxvcM0IgYAKFwhm6NmIoLZM4TI2_mAzk7qL4ZUYKaOzETncN8z0UoKiwDAbZbsc97hjF7BcgB7dEO6ATmYr7AQqRZkiXNNJ9o_SafQRAYonkj7yTeLpgmNXv-LFPL2yNvCWjpj-fklPmlOrKvspwZvhwQ8m6hX8cVFU-aEYbbgaMOO_hJrr8jRMKoAL5yXdOR1GCCimbLDrSyPrmtznC-6AK5fKI0oayIBh_6yyfERQydH6Lwgo1HCrnGvya4vAX1NYrTffsZpSg_trzEZOrE0MKCe101peTDqK2T=w636-h598-s-no?authuser=0"/>
+   <br>
+</div>
+<div>
+    <h2> </h2>
     <a href="https://github.com/andrebr45/NovaAgenda" target="_blank"><img src="https://img.shields.io/badge/ACESSAR-gray?logo=github" height="30px" target="_blank"></a>  
 
 <div style="display: inline_block"><br>
