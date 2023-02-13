@@ -187,7 +187,7 @@
 <div align="center">
   <div align="center">
   <a href="https://www.youtube.com/channel/UCIScdxrwhEAu0AuALCHq3AA">
-  <img  src="https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Ch_600%2Cw_516&url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F1285543771%2F56dd8078cf2d5b9f8a23f482a66e3bad%2Fphone.PNG"/>
+  <img  src="https://lh3.googleusercontent.com/8BLBScLYkE2JDxbU6G4iDFIJGun8qpX0H7V-JGS1iJj1jaX6kscuMtBSWxDubmZicXYvh0KZ7A_J3KOse_SY-TiKIZ5cV5RajhQafmSBQt1VvxeARg27eDscvWG3nzDBg0w2wYTdRADr2uRh0J005XD03bsF2R5uoIoLmUmDrX-0SALZtb5Bv7DmaZ8Z2RSQKml3jjzm7pp4RJT71APgF1Ov9J7HNeXqsnWmyFq2HagvHyuTpIthknxBP1W7qLKD7931w7IDlEFgRmmY4ZBzNUuz7lHsNAy939X3yyuwRwGm9ElhQURx1Wcoa_0xK7vBIpsL6RWw9KjMdkHO6xxZdf-eAXtUVBh5kyHfj3RvWzCHX39NhSfxK3qUT16lSeG3_E2_2WLJzu6j6hXcIKkZgX5RSacH3X_UxqXVAnezK_sEOY0oKwC43fOKwirCP0OP_kvplDUz132TdgoxSrO2_QbjuGS4B7scKpKq48OMkaS0Xs3LvbiqS11HYQaP8LZnL1zjlp6vbUx2glLZsI9WOUH3FkqfqD6vb7KHUejI7GluGFot9322XmP6pU0nrcTrfbaledDeequwJHtyHYUQWA_ize8FqTOSFLX8HXAeAHXZGD_E6k0ypGeN4OX9wXBHEZswDmyNT2Fgn8Dti2I3J8fcuYqCxLsajff-LOiqt7yHBuy4ZRC5K1yUOzdndVTMsg-dD29tbZzkOkHld70cjI8d_Kd2MgHNMZ97wfZldZxbplLSFV_IF8512CvCyB7KPwLYck3Z2NnweUBey93atd8fmBiElNEU3fHDiqwHjZfzzwlXtOOSs1eW7q8T3o7JS_neQ2lHGU3wd_lfYgCEz28Rgw74J7IhVJLzUFCJxOv21QkjtKtCSvxk0FaPu9dHIIdurqp-MG-a0uLusScTI4UJXPhIBVyNkahi9qLOTjMRKX5N=w636-h598-s-no?authuser=0"/>
    <br>
   <img align="top" alt="And@-Software" height="180em" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
   <img align="top" alt="And@-Software" height="180em" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
