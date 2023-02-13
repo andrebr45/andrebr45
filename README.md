@@ -189,8 +189,6 @@
   <a href="https://www.youtube.com/channel/UCIScdxrwhEAu0AuALCHq3AA">
   <img  src="https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%1Ch_636%2Cw_598&url=https%3A%2F%2Fstorage.googleapis.com%2Fpadlet-uploads%2F1285543771%2Ff1ddc490a31354eda5290eed15a35c64%2Fagenda.png%3FExpires%3D1676930313%26GoogleAccessId%3D778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%2540developer.gserviceaccount.com%26Signature%3DEbPJXMPD5hdkfQHboMvVNFlvHXeN0Zx5Xxfs5ZZtPaJaXspP3HMjQDbQ8dw5etvsubMz2CmENB2FJtIpWKlJDQ7iyND9m0OrcVtXMb%252B9QMz3EukqB6ZsMQaqUw%252BVSxyR%252BCoit9tYlwKC0GB88j%252BSx5qXAKl5hwga1KDG6Fm5DgI%253D%26original-url%3Dhttps%253A%252F%252Fpadlet-uploads.storage.googleapis.com%252F1285543771%252Ff1ddc490a31354eda5290eed15a35c64%252Fagenda.png"/>
    <br>
-  <img align="top" alt="And@-Software" height="180em" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
-  <img align="top" alt="And@-Software" height="180em" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 <div>
     <h2> </h2>
