@@ -26,22 +26,20 @@
   
 </div>
   <div align="center">
-  <h2> Sistema de Autenticação de Login e SMS 👋</h2>
+  <h2> Sistema de Autenticação de Login e SMS</h2>
 </div>
 <div align="center" border="5px">
   <div align="center">
   <a href="https://www.youtube.com/watch?v=VD5e2SfEiF0&t=326s">
-  <img src="https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Ch_700%2Cw_700&url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F1285543771%2F8be12dd2795311504e0183a0da8ac736%2Flogin.png"/>
+  <img src="https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Ch_629%2Cw_650&url=https%3A%2F%2Fstorage.googleapis.com%2Fpadlet-uploads%2F1285543771%2Fb9658f534033393c744fc0893ec02416%2Flogin_novo.png%3FExpires%3D1677614399%26GoogleAccessId%3D778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%2540developer.gserviceaccount.com%26Signature%3DeYMm9IM%252FAYA2vC%252BaRC5PXBnqHlJXiBTaDaykUlQfXhxmLyrDkhWCtqQIJrBCr20cT3lWpgVn1SuHsAmf5DizvpVtnZq3%252FkRw%252B5gEIcH2m8B15J02Vmyc%252FJLF7wbEGuDb1jnDp%252Fkj%252BMIauJ3x%252FaaXLAxebwiWsbCdEFCP2c9SZ2k%253D%26original-url%3Dhttps%253A%252F%252Fpadlet-uploads.storage.googleapis.com%252F1285543771%252Fb9658f534033393c744fc0893ec02416%252Flogin_novo.png"</>
    <br>
-  <img align="top" alt="And@-Software" height="180em" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="top" alt="And@-Software" height="180em" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 <div>
-    <h2> </h2>
-    <a href="https://www.youtube.com/watch?v=VD5e2SfEiF0&t=326s" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-
+  <a href="https://github.com/andrebr45/Login_SMS" target="_blank"><img src="https://img.shields.io/badge/ACESSAR-gray?logo=github" height="30px" target="_blank"></a>
+  <br><br>
 </div>
-  <div align="center">
+    
+<div align="center">
   <h2> Consulta de CEPS - Ubatuba-SP 👋</h2>
 </div>
 <div align="center">
