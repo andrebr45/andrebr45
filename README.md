@@ -74,24 +74,21 @@
   
 </div>
   <div align="center">
-  <h2> Sistema de Gerador QR Code 👋</h2>
+  <h2> Sistema de Gerador QR Code</h2>
 </div>
 <div align="center">
   <div align="center">
   <a href="https://www.youtube.com/watch?v=zgDgck16w80&t=47s">
-  <img  src="https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Ch_451%2Cw_516&url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F1285543771%2F6468fd4e06274cce85e7863bf4eed61f%2Fgithub3.png"/>
+  <img src="https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Ch_560%2Cw_600&url=https%3A%2F%2Fstorage.googleapis.com%2Fpadlet-uploads%2F1285543771%2F2afd799c87b55cd7f7464a26217e50a8%2FSistema_QRCode_novo.png%3FExpires%3D1677616445%26GoogleAccessId%3D778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%2540developer.gserviceaccount.com%26Signature%3DyQJiWSwmmLdSKnsP74pYD9VDxfrIUXiXpSqZXlVCuJKFLT26kmQFOnBpjWBjcf3iOpXF4C0PUYvNeF8i7gKdTKkL9Wa7kWuJC6VzJ4kIzfccq0rhbod8oSe52sUr1mVQRSoQeNM2Db%252FwGgpUXSOedGP%252Bch0fweJO53tHF4xKpkA%253D%26original-url%3Dhttps%253A%252F%252Fpadlet-uploads.storage.googleapis.com%252F1285543771%252F2afd799c87b55cd7f7464a26217e50a8%252FSistema_QRCode_novo.png"></>
    <br>
-  <img align="top" alt="And@-Software" height="180em" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 <div>
-    <h2> </h2>
-    <a href="https://github.com/andrebr45/QR_Code" target="_blank"><img src="https://img.shields.io/badge/ACESSAR-gray?logo=github" height="30px" target="_blank"></a>
-
-  
-
-  
+    
+  <a href="https://github.com/andrebr45/QR_Code" target="_blank"><img src="https://img.shields.io/badge/ACESSAR-gray?logo=github" height="30px" target="_blank"></a>
+  <br><br>
 </div>
-  <div align="center">
+  
+<div align="center">
   <h2> Sistema de Hospital Em Breve! 👋</h2>
 </div>
 <div align="center">
