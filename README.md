@@ -40,22 +40,19 @@
 </div>
     
 <div align="center">
-  <h2> Consulta de CEPS - Ubatuba-SP 👋</h2>
+  <h2> Sistema de CEPS - Ubatuba-SP</h2>
 </div>
 <div align="center">
   <div align="center">
   <a href="https://www.youtube.com/watch?v=zzkwYqekBGY&t=161s">
-  <img src="https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Ch_600%2Cw_800&url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F1285543771%2F771594a55768f556747025da7d5b02cb%2FProjeto_cep.png"/>
+  <img src="https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Ch_600%2Cw_800&url=https%3A%2F%2Fstorage.googleapis.com%2Fpadlet-uploads%2F1285543771%2Fba43274b4802a873d80dad1a7a660a36%2Fsistema_cep.png%3FExpires%3D1677710783%26GoogleAccessId%3D778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%2540developer.gserviceaccount.com%26Signature%3D5nnUClEDIaDz9rXNlF%252BgyAEx9XAqUEW8xx72lOh5INilnB%252B0vlkeTVq69yDwVVtPcSXbVgo7OIGlltoG55gSy0MD8%252FVpx6J0CpzMQ6crifxpsrjOPLnwTUuJJ9eFeHL%252Bmvq66iujH4WWtpcIKrXu9wPErOrExQ7TREp39sgnYHA%253D%26original-url%3Dhttps%253A%252F%252Fpadlet-uploads.storage.googleapis.com%252F1285543771%252Fba43274b4802a873d80dad1a7a660a36%252Fsistema_cep.png"></>
    <br>
-  <img align="top" alt="And@-Software" height="180em" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="top" alt="And@-Software" height="180em" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 <div>
-    <h2> </h2>
     <a href="https://youtu.be/zzkwYqekBGY" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  
-  
+  <br><br>
 </div>
+  
   <div align="center">
   <h2> Programa Youtube Completo 👋</h2>
 </div>
