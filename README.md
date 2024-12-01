@@ -31,7 +31,7 @@
 <div align="center" border="5px">
   <div align="center">
   <a href="https://www.youtube.com/watch?v=VD5e2SfEiF0&t=326s">
-  <img src="https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Ch_629%2Cw_650&url=https%3A%2F%2Fstorage.googleapis.com%2Fpadlet-uploads%2F1285543771%2Fb9658f534033393c744fc0893ec02416%2Flogin_novo.png%3FExpires%3D1677614399%26GoogleAccessId%3D778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%2540developer.gserviceaccount.com%26Signature%3DeYMm9IM%252FAYA2vC%252BaRC5PXBnqHlJXiBTaDaykUlQfXhxmLyrDkhWCtqQIJrBCr20cT3lWpgVn1SuHsAmf5DizvpVtnZq3%252FkRw%252B5gEIcH2m8B15J02Vmyc%252FJLF7wbEGuDb1jnDp%252Fkj%252BMIauJ3x%252FaaXLAxebwiWsbCdEFCP2c9SZ2k%253D%26original-url%3Dhttps%253A%252F%252Fpadlet-uploads.storage.googleapis.com%252F1285543771%252Fb9658f534033393c744fc0893ec02416%252Flogin_novo.png"</>
+  <img src="https://v1.padlet.pics/3/image.webp?t=c_limit%2Cdpr_1.5%2Ch_430%2Cw_375&url=https%3A%2F%2Fu1.padletusercontent.com%2Fuploads%2Fpadlet-uploads%2F1285543771%2Fb9658f534033393c744fc0893ec02416%2Flogin_novo.png%3Fexpiry_token%3D5WaHZRdGG3LkUVQGy3SZ-zdRtq89aJeottSBaF_Hii8EGDVBG-vnLc5ZfL_2GiKosWMOCkHArMcc8LorETHcZym0stuqN_APVemlhI5b_SGwOmB3LQHEjQ-cyNU0wQMu8W5ONi166xQxnQwvl1F6QK9HIbpIEReC8niTrmD-irC_B6GG0OvJs6jIkonPSS69Jnmt8WP2KOX1n6N0mrNKLQ%3D%3D"</>
    <br>
 </div>
 <div>
@@ -76,7 +76,7 @@
 <div align="center">
   <div align="center">
   <a href="https://www.youtube.com/watch?v=zgDgck16w80&t=47s">
-  <img src="https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Ch_560%2Cw_600&url=https%3A%2F%2Fstorage.googleapis.com%2Fpadlet-uploads%2F1285543771%2F2afd799c87b55cd7f7464a26217e50a8%2FSistema_QRCode_novo.png%3FExpires%3D1677616445%26GoogleAccessId%3D778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%2540developer.gserviceaccount.com%26Signature%3DyQJiWSwmmLdSKnsP74pYD9VDxfrIUXiXpSqZXlVCuJKFLT26kmQFOnBpjWBjcf3iOpXF4C0PUYvNeF8i7gKdTKkL9Wa7kWuJC6VzJ4kIzfccq0rhbod8oSe52sUr1mVQRSoQeNM2Db%252FwGgpUXSOedGP%252Bch0fweJO53tHF4xKpkA%253D%26original-url%3Dhttps%253A%252F%252Fpadlet-uploads.storage.googleapis.com%252F1285543771%252F2afd799c87b55cd7f7464a26217e50a8%252FSistema_QRCode_novo.png"></>
+  <img src="https://v1.padlet.pics/3/image.webp?t=c_limit%2Cdpr_1.5%1Ch_490%2Cw_275&url=https%3A%2F%2Fu1.padletusercontent.com%2Fuploads%2Fpadlet-uploads%2F1285543771%2F2afd799c87b55cd7f7464a26217e50a8%2FSistema_QRCode_novo.png%3Fexpiry_token%3D5WaHZRdGG3LkUVQGy3SZ-zdRtq89aJeottSBaF_Hii8EGDVBG-vnLc5ZfL_2GiKosWMOCkHArMcc8LorETHcZ-vIxlm-Erj0LuxhDaJbq2YlU_vdnCB2uRu6oI2TPXZJFu5IhAvJQA0vPOad5wC6bDTFVeeWaC6JhFkMtfC4DaZm6i6zJf0HcWXQ9PndstPsncPkhsA0eF8FVt53tRc6l9WBwfkU2TrgQlsytA_bAVA%3D"></>
    <br>
 </div>
 <div>
@@ -162,7 +162,7 @@
 <div align="center">
   <div align="center">
   <a href="https://www.youtube.com/watch?v=PqpxTlB766g&t=16s&ab_channel=%40DevIniciante">
-  <img  src="https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Ch_470%2Cw_550&url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F1285543771%2F890e0d90fb3f87dbebad87417514cc37%2Fjava_git.png"/>
+  <img  src="https://v1.padlet.pics/3/image.webp?t=c_limit%2Cdpr_1%2Ch_459%2Cw_649&url=https%3A%2F%2Fu1.padletusercontent.com%2Fuploads%2Fpadlet-uploads%2F1285543771%2F890e0d90fb3f87dbebad87417514cc37%2Fjava_git.png%3Fexpiry_token%3D5WaHZRdGG3LkUVQGy3SZ-zdRtq89aJeottSBaF_Hii8EGDVBG-vnLc5ZfL_2GiKosWMOCkHArMcc8LorETHcZ59a4xi-h6yYtL6HOqixT2b1ugCw1mRjwuQCHdwlVFwPxI8eSO_ejOUMPZroNC6EJDvutCbEf4DFbl7fDXPw-SD45RikGheBvZ9WpCEzAD2HtxHWZy23iRtrwDFhctm6xQ%3D%3D"/>
    <br>
   <img align="top" alt="And@-Software" height="180em" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="top" alt="And@-Software" height="180em" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
@@ -179,7 +179,7 @@
 <div align="center">
   <div align="center">
   <a href="https://www.youtube.com/channel/UCIScdxrwhEAu0AuALCHq3AA">
-  <img  src="https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%1Ch_636%2Cw_598&url=https%3A%2F%2Fstorage.googleapis.com%2Fpadlet-uploads%2F1285543771%2Ff1ddc490a31354eda5290eed15a35c64%2Fagenda.png%3FExpires%3D1684641721%26GoogleAccessId%3D778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%2540developer.gserviceaccount.com%26Signature%3DIbYLLIk6U1%252BrpquLdYCpLhiWN8DWRBytaEbHfjwoV6Xl8xmPPTtLvzmlbm0h%252BHpeRPG8Pq%252BWKALWQImZo%252BMDJmk23GbqsKD9TjigGmBuCQ2k6SghkA2HsLlcfnUBXpA3lnBj9gW3h9NDAJygEyB8HT1IlKfzmQpbY51eOHCHbAs%253D%26original-url%3Dhttps%253A%252F%252Fpadlet-uploads.storage.googleapis.com%252F1285543771%252Ff1ddc490a31354eda5290eed15a35c64%252Fagenda.png"/>
+  <img  src="https://v1.padlet.pics/3/image.webp?t=c_limit%2Cdpr_1.5%2Ch_394%2Cw_275&url=https%3A%2F%2Fu1.padletusercontent.com%2Fuploads%2Fpadlet-uploads%2F1285543771%2Ff1ddc490a31354eda5290eed15a35c64%2Fagenda.png%3Fexpiry_token%3D5WaHZRdGG3LkUVQGy3SZ-zdRtq89aJeottSBaF_Hii8EGDVBG-vnLc5ZfL_2GiKosWMOCkHArMcc8LorETHcZ1qGvZWmt4f-IV8m-9CwCuWFL0hFM2CtxpnS2uxxASpVtDHQ3y_IlWJBOXgSoiKdYeChKAC_BoBcz1kBGE0ICpOtM8MIux2fOHPj-jIwCXxllbw11Csij2df8AE5JpFasA%3D%3D"/>
    <br>
 </div>
 <div>
@@ -193,7 +193,7 @@
 <div align="center">
   <div align="center">
   <a href="https://www.youtube.com/channel/UCIScdxrwhEAu0AuALCHq3AA">
-  <img  src="https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%1Ch_636%2Cw_598&url=https%3A%2F%2Fstorage.googleapis.com%2Fpadlet-uploads%2F1285543771%2Fdec2cd4971e3c540f659746adea62382%2Flogin_git.png%3FExpires%3D1684641721%26GoogleAccessId%3D778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%2540developer.gserviceaccount.com%26Signature%3Dq8tT6haazEBS9nVCwkSBrqbxncgvWv3YnZtZg0Zi9w6AXObFwhEon5kkv2KedhMyWL8rjDVyCJMtC6%252FNYvRUQJZKxr%252BxsLLt%252FzKNBhqJdM7gASuwrZzkvs4D1FSsA7%252FsBycX08oxyPbUU41Wu4eiOakGhIEVhVKqslJYHxNz5XI%253D%26original-url%3Dhttps%253A%252F%252Fpadlet-uploads.storage.googleapis.com%252F1285543771%252Fdec2cd4971e3c540f659746adea62382%252Flogin_git.png"/>
+  <img  src="https://v1.padlet.pics/3/image.webp?t=c_limit%2Cdpr_1.5%2Ch_394%2Cw_275&url=https%3A%2F%2Fu1.padletusercontent.com%2Fuploads%2Fpadlet-uploads%2F1285543771%2Fdec2cd4971e3c540f659746adea62382%2Flogin_git.png%3Fexpiry_token%3D5WaHZRdGG3LkUVQGy3SZ-zdRtq89aJeottSBaF_Hii8EGDVBG-vnLc5ZfL_2GiKosWMOCkHArMcc8LorETHcZ1i5UmGkVG_-S_LFQ-_rHAuoK7h2T6q2fS8dICj2sriHG07Oae6D3HuwJlpXFaRZCdKhBdV_AKGMOC85wvxGnxURYgB78S7YEZ-SmUBK7VIlRCoetu25_9HmYfcgE4T7fg%3D%3D"/>
    <br>
 </div>
 <div>
