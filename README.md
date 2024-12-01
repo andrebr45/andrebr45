@@ -7,6 +7,23 @@
   <a href="https://github.com/andrebr45">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrebr45&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
    <h1>Os Melhores Projetos! 👋</h1>
+    </div>
+  <div align="center">
+  <h2> Sistema de Gerenciamento Escolar em Python com Flask👋</h2>
+</div>
+<div align="center">
+  <div align="center">
+  <a href="https://www.youtube.com/channel/UCIScdxrwhEAu0AuALCHq3AA">
+  <img src="https://v1.padlet.pics/3/image.webp?t=c_limit%2Cdpr_2%2Ch_516%2Cw_575&url=https%3A%2F%2Fu1.padletusercontent.com%2Fuploads%2Fpadlet-uploads%2F1285543771%2F48fdd6e79bb51f8a5554b7ae9713a1e3%2FSem_t_tulo.png%3Fexpiry_token%3D5WaHZRdGG3LkUVQGy3SZ-zdRtq89aJeottSBaF_Hii8EGDVBG-vnLc5ZfL_2GiKosWMOCkHArMcc8LorETHcZ-jCGVdlwQhjZ3wllWCFD972HEs8aqnko5wRj2XOC5Qc_kC1j1ay-85HkGRH6bGx_OqeNTuDcuOjmf3_cXhOGritAVKkeE73OZgasDQh-pqx5HTq5fvrx0fb2N9N6pJx8A%3D%3D"/>
+   <br>
+  <img align="top" alt="And@-Software" height="180em" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="top" alt="And@-Software" height="180em" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
+  <img align="top" alt="And@-Software" height="180em" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+</div>
+<div>
+    
+  <a href="https://github.com/andrebr45/sistema-educacional-python" target="_blank"><img src="https://img.shields.io/badge/ACESSAR-gray?logo=github" height="30px" target="_blank"></a>
+  <br><br>
 </div>
   <div align="center">
   <h2> Sistema de Login em Java em breve 👋</h2>
@@ -17,7 +34,7 @@
   <img src="https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_2%2Ch_497%2Cw_982&url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F1285543771%2F5400b4b2956627d596d2e5588b2098ad%2Fjava_padlet.png"/>
    <br>
   <img align="top" alt="And@-Software" height="180em" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="top" alt="And@-Software" height="180em" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="top" alt="And@-Software" height="180em" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> 
 </div>
 <div>
     <h2> </h2>
